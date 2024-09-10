@@ -15,7 +15,7 @@ This exercise will demonstrate the following in the example video:
 
 VAR magic = -1 //  0 Sphere, 1 Triangle, 2 Cube
 VAR raise = 0
-VAR crowd = -1 //  0 Ohhh, 1 Ahhh, 2 Woooow
+VAR crowd = -1 //  0 Ohhh, 1 Ahhh, 2 Wooooow
 VAR shape = -1 //  0 Circle, 1 Triangle, 2 Square
 
 -> classroom
